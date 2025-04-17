@@ -27,11 +27,11 @@
 
 ## 店铺设置 <a href="#store-settings" id="store-settings"></a>
 
-* [自定义店铺样式](store-settings/zi-ding-yi-dian-pu-yang-shi.md)
-* [店铺页面](store-settings/dian-pu-ye-mian.md)
-* [服务条款](store-settings/fu-wu-tiao-kuan.md)
-* [黑名单](store-settings/hei-ming-dan.md)
-* [自定义收集买家信息](store-settings/zi-ding-yi-shou-ji-mai-jia-xin-xi.md)
+* [自定义店铺样式](store-settings/custom-styles.md)
+* [店铺页面](store-settings/store-pages.md)
+* [服务条款](store-settings/terms.md)
+* [黑名单](store-settings/blacklist.md)
+* [自定义收集买家信息](store-settings/custom-buyer-info.md)
 
 ## 我是买家 <a href="#i-am-buyer" id="i-am-buyer"></a>
 
