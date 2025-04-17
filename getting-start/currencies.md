@@ -4,9 +4,27 @@ icon: circle-dollar
 
 # 货币
 
-Once you’ve finished writing, editing, or importing your content, you can publish your work to the web as a docs site. Once published, your site will be accessible online only to your selected audience.
+您可以为您的商品设置货币，但用户付款的时候，我们会转换成美元，转换的汇率是当天的汇率，结算也使用美元。
 
-You can publish your site and find related settings from your docs site's homepage.
+当前商品支持的货币
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/publish-hero.png" alt=""><figcaption></figcaption></figure>
+* USD - US Dollar
+* GBP - British Pound
+* EUR - Euro
+* JPY - Japanese Yen
+* INR - Indian Rupee
+* AUD - Australian Dollar
+* CAD - Canadian Dollar
+* HKD - Hong Kong Dollar
+* SGD - Singapore Dollar
+* TWD - New Taiwan Dollar
+* NZD - New Zealand Dollar
+* BRL - Brazilian Real
+* ZAR - South African Rand
+* CHF - Swiss Franc
+* ILS - Israeli New Shekel
+* PHP - Philippine Peso
+* KRW - South Korean Won
+* PLN - Polish Zloty
+* CZK - Czech Koruna
 

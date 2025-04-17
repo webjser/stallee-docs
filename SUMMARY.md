@@ -24,6 +24,7 @@
 ## 收入 <a href="#revenue" id="revenue"></a>
 
 * [结算](revenue/payouts.md)
+* [账期](revenue/account-period.md)
 
 ## 店铺设置 <a href="#store-settings" id="store-settings"></a>
 
