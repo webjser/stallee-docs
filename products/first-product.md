@@ -16,3 +16,4 @@ icon: rectangle-history-circle-plus
 
 <div align="left"><figure><img src="../.gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
+目前商品状态还是草稿，点击右上角三个点，发布商品即可。

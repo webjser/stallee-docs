@@ -11,7 +11,7 @@
 
 * [创建第一件商品](products/first-product.md)
 * [经典类商品](products/classic-products.md)
-* [cdk类商品](products/images-and-media.md)
+* [兑换码类商品](products/redemption-code-products.md)
 * [订阅类商品](products/subscription-products.md)
 * [打包类商品](products/bundle-products.md)
 * [优惠券功能](products/coupons.md)
