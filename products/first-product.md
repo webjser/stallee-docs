@@ -4,35 +4,15 @@ icon: rectangle-history-circle-plus
 
 # 创建第一件商品
 
-GitBook has a powerful block-based editor that allows you to seamlessly create, update, and enhance your content.
+点击添加商品，选择您的商品类型，输入商品名称和价格。
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/editor-hero.png" alt=""><figcaption></figcaption></figure>
+<div align="left"><figure><img src="../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
-### Writing content
+添加商品描述，上传商品封面图
 
-GitBook offers a range of block types for you to add to your content inline — from simple text and tables, to code blocks and more. These elements will make your pages more useful to readers, and offer extra information and context.
+<div align="left"><figure><img src="../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
-Either start typing below, or press `/` to see a list of the blocks you can insert into your page.
+添加付费内容，这些内容或文件用户付费后就能看到。
 
-### Add a new block
-
-{% stepper %}
-{% step %}
-### Open the insert block menu
-
-Press `/` on your keyboard to open the insert block menu.
-{% endstep %}
-
-{% step %}
-### Search for the block you need&#x20;
-
-Try searching for “Stepper”, for exampe, to insert the stepper block.
-{% endstep %}
-
-{% step %}
-### Insert and edit your block
-
-Click or press Enter to insert your block. From here, you’ll be able to edit it as needed.
-{% endstep %}
-{% endstepper %}
+<div align="left"><figure><img src="../.gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
