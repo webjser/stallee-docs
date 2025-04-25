@@ -14,7 +14,7 @@ icon: comment-dollar
 
 stallee的支付由stripe和PayPal提供，他们会收取一定的费用
 
-* stripe **3.4% + $0.30**
+* Stripe **3.9% + $0.30**
 * PayPal **4.4% + $0.30**
 
 ### 结算费
