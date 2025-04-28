@@ -15,6 +15,7 @@
 * [订阅类商品](products/subscription-products.md)
 * [打包类商品](products/bundle-products.md)
 * [优惠券功能](products/coupons.md)
+* [多版本商品](products/duo-ban-ben-shang-pin.md)
 
 ## 订单 <a href="#orders" id="orders"></a>
 
