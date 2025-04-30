@@ -13,7 +13,7 @@
 * [经典类商品](products/classic-products.md)
 * [兑换码类商品](products/redemption-code-products.md)
 * [订阅类商品](products/subscription-products.md)
-* [打包类商品](products/bundle-products.md)
+* [捆绑销售商品](products/bundle-products.md)
 * [优惠券功能](products/coupons.md)
 * [多版本商品](products/duo-ban-ben-shang-pin.md)
 
@@ -29,7 +29,7 @@
 
 ## 店铺设置 <a href="#store-settings" id="store-settings"></a>
 
-* [自定义店铺样式](store-settings/custom-styles.md)
+* [店铺配色](store-settings/custom-styles.md)
 * [店铺页面](store-settings/store-pages.md)
 * [服务条款](store-settings/terms.md)
 * [黑名单](store-settings/blacklist.md)
