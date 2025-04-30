@@ -4,7 +4,7 @@
 
 * [功能介绍](README.md)
 * [货币](getting-start/currencies.md)
-* [手续费](getting-start/fee.md)
+* [手续费](getting-start/fees.md)
 * [联系我们](getting-start/contact-us.md)
 
 ## 商品 <a href="#products" id="products"></a>
@@ -15,7 +15,7 @@
 * [订阅类商品](products/subscription-products.md)
 * [捆绑销售商品](products/bundle-products.md)
 * [优惠券功能](products/coupons.md)
-* [多版本商品](products/duo-ban-ben-shang-pin.md)
+* [多版本商品](products/multi-versions.md)
 
 ## 订单 <a href="#orders" id="orders"></a>
 
@@ -25,7 +25,6 @@
 ## 收入 <a href="#revenue" id="revenue"></a>
 
 * [结算](revenue/payouts.md)
-* [账期](revenue/account-period.md)
 
 ## 店铺设置 <a href="#store-settings" id="store-settings"></a>
 

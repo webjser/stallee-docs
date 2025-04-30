@@ -8,12 +8,12 @@ icon: thumbs-up
 
 另外，订阅产品支持信用卡和PayPal的自动扣费，保证了卖家的收益。
 
-<div align="left"><figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 您可以设置不同的付费周期
 
-<div align="left"><figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 为不同层级设置不同的付费内容，您可以添加多个付费内容，设置不同的标题，方便归类
 
-<div align="left"><figure><img src="../.gitbook/assets/image (3).png" alt="" width="563"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (3) (1).png" alt="" width="563"><figcaption></figcaption></figure></div>
