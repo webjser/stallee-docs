@@ -4,20 +4,15 @@ icon: gem
 
 # 功能介绍
 
-<figure><img src="https://gitbookio.github.io/onboarding-template-images/quickstart-hero.png" alt=""><figcaption></figcaption></figure>
+Stallee是一个通用的数字物品售卖平台，可以很方便的出售您的数字作品。
 
-Beautiful documentation starts with the content you create — and GitBook makes it easy to get started with any pre-existing content.
+* 可出售各种类型的数字作品，用户付费后可见或下载
+* 一件商品可以设置多个版本，每个版本单独定价，允许补差价升级
+* 详细的销售
+* 支持优惠券，可精确的设置使用范围
+* 无限空间文件上传，且不限制大小，还可通过dropbox直接同步到Stallee
+* 无限下载流量，上传的文件会提供无限量的下载
+* 可自定义配色，设置一个不一样的店铺
+* 可设置黑名单，禁止某些恶意用户或盗版贩售者
+* 可自定义服务条款，买家购买前需要先同意
 
-{% hint style="info" %}
-Want to learn about writing content from scratch? Head to the [Basics](products/first-product.md) section to learn more.
-{% endhint %}
-
-### Import
-
-GitBook supports importing content from many popular writing tools and formats. If your content already exists, you can upload a file or group of files to be imported.
-
-<div data-full-width="false"><figure><img src="https://gitbookio.github.io/onboarding-template-images/quickstart-import.png" alt=""><figcaption></figcaption></figure></div>
-
-### Sync a repository
-
-GitBook also allows you to set up a bi-directional sync with an existing repository on GitHub or GitLab. Setting up Git Sync allows you and your team to write content in GitBook or in code, and never have to worry about your content becoming out of sync.

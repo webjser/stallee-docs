@@ -1,5 +1,5 @@
 ---
-icon: comment-dollar
+icon: hand-holding-circle-dollar
 ---
 
 # 手续费
@@ -12,7 +12,7 @@ icon: comment-dollar
 
 ### 支付处理费
 
-stallee的支付由stripe和PayPal提供，他们会收取一定的费用
+stallee的支付由Stripe和PayPal提供，他们会收取一定的费用
 
 * Stripe **3.9% + $0.30**
 * PayPal **4.4% + $0.30**
