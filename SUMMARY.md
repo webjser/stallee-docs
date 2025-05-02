@@ -20,7 +20,7 @@
 ## 订单 <a href="#orders" id="orders"></a>
 
 * [订单标记功能](orders/order-mark.md)
-* [退款](orders/refund.md)
+* [退款政策](orders/refund-policy.md)
 
 ## 收入 <a href="#revenue" id="revenue"></a>
 
