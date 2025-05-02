@@ -37,7 +37,6 @@
 ## 我是买家 <a href="#i-am-buyer" id="i-am-buyer"></a>
 
 * [如何查看购买的商品](i-am-buyer/my-purchases.md)
-* [是否支持退款](i-am-buyer/product-refund.md)
 * [购买的商品不见了](i-am-buyer/order-not-found.md)
 * [账号合并](i-am-buyer/account-merge.md)
 * [管理我的订阅](i-am-buyer/my-subscriptions.md)
